@@ -17,12 +17,12 @@ jobs:
           args: "pandoc --standalone --metadata pagetitle=\"nohello\" --css \"assets/css/pandoc.css\" --output=index.html index.md"
       - name: Commit
         run: |
-          git config --global user.name "Sebastian Müller"
-          git config --global user.email "gsenpo@gmail.com"
+          git config --global user.name "Sirakorn Lamyai"
+          git config --global user.email "git@privaterelay.srakrn.me"
           git add index.html
           git commit -m "[BOT] Generate HTML from Markdown"
       - name: Push
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GH_TOKEN }}
           branch: ${{ github.ref }}
