@@ -1,13 +1,13 @@
-# Please Don't Just Say Hello In Chat
+# กรุณาอย่าทักมาแค่สวัสดี
 
-## TL;DR
+## อธิบายสั้นๆ
 
-Modern chat communication should be done in a way that saves time for all
-participants and enables an efficient, asynchronous exchange of information.
-**Don't expect an answer if you just write "Hello" in chat**. Don't call
-someone out of the blue. Instead, phrase a message that allows your chat
-partners to provide a meaningful response as soon as they allocate time to read
-and answer your message.
+การสนทนาด้วยการแชตที่ดี ควรช่วยให้ทุกฝ่ายในวงสนทนาสื่อสารกันในรูปแบบไม่ทันทีทันใด (asynchronous)
+อย่างมีประสิทธิภาพ ซึ่งจะนำมาซึ่งการประหยัดเวลาของทุกฝ่าย
+**อย่าคาดหวังว่าจะได้รับคำตอบกลับมา ถ้าคุณพิมพ์แค่ข้อความว่า "สวัสดี" ไปหาอีกฝ่าย**
+และอย่าโทรหาใครสักคนแบบด่วนกระทันหัน
+
+ในทางตรงกันข้าม ให้เขียนข้อความที่อีกฝ่ายหนึ่งสามารถอ่านแล้วตอบคำถามที่คุณต้องการถามได้ทันที
 
 ## Chat Etiquette
 
